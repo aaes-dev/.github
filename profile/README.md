@@ -15,6 +15,6 @@ authority; neither is connected in the default deployment.
 - [Request a demo](mailto:hello@aaes.dev?subject=AAES%20demo)
 - [Request technical documentation and SDK access](mailto:hello@aaes.dev?subject=AAES%20technical%20documentation)
 
-Pre-pilot. Now inviting design partners. The core repository is private.
+Now inviting design partners. The core repository is private.
 
 *Autonomy. With Accountability.*
