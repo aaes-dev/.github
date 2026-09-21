@@ -10,10 +10,10 @@ offline. Enforcement requires control of the credentials and the agent’s actio
 path. Independent attestation requires a configured external witness or timestamp
 authority; neither is connected in the default deployment.
 
-- [Product site](https://aaes.dev)
-- [Developer documentation](https://aaes.dev/developers.html)
-- [Request a demo](mailto:hello@aaes.dev?subject=AAES%20demo)
-- [Request technical documentation and SDK access](mailto:hello@aaes.dev?subject=AAES%20technical%20documentation)
+- [Product site](https://aaes.ai)
+- [Developer documentation](https://aaes.ai/developers.html)
+- [Request a demo](mailto:hello@aaes.ai?subject=AAES%20demo)
+- [Request technical documentation and SDK access](mailto:hello@aaes.ai?subject=AAES%20technical%20documentation)
 
 Now inviting design partners. The core repository is private.
 
